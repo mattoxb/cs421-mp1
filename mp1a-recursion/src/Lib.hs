@@ -18,6 +18,12 @@ import Prelude hiding ( take, drop, reverse
 -- for example `P.take`
 import qualified Prelude as P
 
+--- Metadata for autograder
+--- -----------------------
+tag1 = 21923
+tag2 = 44437
+tag3 = 24929
+
 --- Problems
 --- ========
 
